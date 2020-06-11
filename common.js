@@ -1,9 +1,9 @@
 'use strict';
 
 const {Spanner} = require('@google-cloud/spanner');
-const projectId = 'binguo-learning-centre';
-const instanceId = 'oasis-testing';
-const databaseId = 'springdb';
+const projectId = ' ';
+const instanceId = ' ';
+const databaseId = ' ';
 
 const mySessionPoolOptions ={
     max: 100,
